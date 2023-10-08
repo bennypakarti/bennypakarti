@@ -2,8 +2,7 @@
 #### Fullstack Developer
 ![Fullstack Developer](https://pbs.twimg.com/profile_banners/761566181874556928/1621141141/1080x360)
 
-Nice to meet you! 🎓 Majoring Information System In State University of Surabaya. 👨‍💻 Processed to become a Fullstack Developer
-
+Nice to meet you! 🎓I am fresh graduate achelors degree Information System In State University of Surabaya. I am Certified Fullstack Javascript Website Development👨‍💻.
 
 Skills: HTML / CSS / JAVASCRIPT / PHP / NODE / EXPRESS / REACT / NEXT
 
